@@ -1,2 +1,5 @@
-# react-pivot-table-demo
-I was create this react pivot table demo in react js
+npm i react-pivottable
+
+npm install react-plotly.js plotly.js
+
+npm install react-plotly.js plotly.js-basic-dist
